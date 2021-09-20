@@ -29,6 +29,7 @@ RUN apt-get update \
 	jq \
 	libc6-dev \
 	libelf-dev \
+	libssl-dev \
 	libmpx2 \
 	llvm-7 \
 	netcat \
